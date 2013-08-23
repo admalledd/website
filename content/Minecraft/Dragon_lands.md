@@ -19,3 +19,8 @@ When holding a eye of ender in the kobold world, right click. Instead of throwin
 **Logging Out:**
 
 It is not recommended to log out in the transient worlds of the dragon lands, this is due to the fact that when the server regenerates it will be with a new seed so you might be underground or some such. The plugin will do its best to keep track and teleport you to safety but there are some hard limits inside craftbukkit and minecraft on some things.
+
+
+**On your own server:**
+
+This plugin was written with only my server in mind, and has quite a few hooks into my own code or my specific list of plugins. If you want it on your own server send an email to admalledd@gmail.com and we can work something out.

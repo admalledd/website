@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+#THEME = "/home/admalledd/Documents/notes/pelican-themes/cebong"
+
 AUTHOR = u'admalledd'
-SITENAME = u"admalledd's notes"
+SITENAME = u"admalledd's website"
 SITEURL = ''
 
 TIMEZONE = 'America/Vancouver'
@@ -24,15 +26,13 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('Twitter: @admalledd', 'http://twitter.com/admalledd'),
           ('Email: admalledd@gmail.com', 'mailto://admalledd@gmail.com'),)
 
-DEFAULT_PAGINATION = 10
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (('Minecraft Server Information','/pages/mc-index.html'),
+             ('FAQ/About me','/pages/faq-about-me.html'),)
 
 
-MD_EXTENSIONS = [
-                'fenced_code',
-                'codehilite(force_linenos=True,noclasses=False,pygments_style=native)',
-                'tables',
-                'extra'
-               ]
+#DEFAULT_PAGINATION = False
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

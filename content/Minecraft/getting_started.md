@@ -35,7 +35,9 @@ Summary: Getting started
 * `/cmodify $USER`
     * Change who can access a certain locked entity. Read `/lwc help` for more info.
 
+**Special oddities:**
 
+The server has some custom plugin code running as well, the most noticeable one being [DragonLands.py](/DragonLands.html). See the link for more information, but basically its a plugin meant to let players hunt an enderdragon on a regular basis.
 
 **Background Info:**
 
