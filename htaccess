@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www\.admalledd\.com$ [NC]
+RewriteCond %{HTTPS} ^off$
+RewriteRule ^(.*)$ http://www.admalledd.com/$1 [R=302,L]
+RewriteCond %{HTTP_HOST} !^www\.admalledd\.com$ [NC]
+RewriteCond %{HTTPS} ^on$
+RewriteRule ^(.*)$ https://www.admalledd.com:81/$1 [R=302,L]
+

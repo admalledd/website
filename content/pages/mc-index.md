@@ -28,6 +28,16 @@ The address is "mc.admalledd.com" for the server address. we also have a mumble 
 
 [Villager spawning refrence](http://redd.it/vcjzf)
 
+**Private Servers:**
+--------------------
+
+Some players have donated specifically to host special servers here as well. Currently there are two others:
+
+* "adv.admalledd.com" (if SRV records work for you, if not "mc.admalledd.com:25566") server that plays custom adventure/game maps from time to time. At the time of this update it is a whitelist only CTM map, email admalledd+mc@gmail.com if you wish to play.
+
+* "ftb.admalledd.com" (if SRV records work for you, if not "mc.admalledd.com:25567") server that is a "vanilla" feed the beast server, so we have it whitelist-only to prevent most issues. talk to kk052 or admalledd on the main server about whitelisting.
+
+
 
 ----------------------
 
