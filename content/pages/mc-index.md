@@ -7,7 +7,7 @@ Author: Admalledd
 
 Email admalledd at admalledd+mc@gmail.com if you have any questions or comments concerning the server.
 
-**[Getting started, click here if you are new to the server!](/mc getting started.html)**
+**[Getting started, click here if you are new to the server!](/Minecraft/mc getting started.html)**
 ------------------------------------------------------------------------------------
 
 The address is "mc.admalledd.com" for the server address. we also have a mumble server set up at "vps1.admalledd.com" (currently these are on the same machine, but please use the separate address in case things have to move around.)

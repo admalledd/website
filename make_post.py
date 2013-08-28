@@ -8,7 +8,7 @@ template = '''Title: {title}
 Date: {date}
 Category: {category}
 Tags: {tags}
-Slug: {slug}
+Slug: {category}/{slug}
 Author: Admalledd
 Summary: {summary}
 

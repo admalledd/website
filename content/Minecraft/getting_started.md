@@ -2,7 +2,7 @@ Title: Getting started on mc.admalledd.com
 Date: 2013-8-19 18:31
 Category: Minecraft
 Tags: mchelp
-Slug: mc getting started
+Slug: Minecraft/mc getting started
 Author: Admalledd
 Summary: Getting started
 
@@ -37,7 +37,7 @@ Summary: Getting started
 
 **Special oddities:**
 
-The server has some custom plugin code running as well, the most noticeable one being [DragonLands.py](/DragonLands.html). See the link for more information, but basically its a plugin meant to let players hunt an enderdragon on a regular basis.
+The server has some custom plugin code running as well, the most noticeable one being [DragonLands.py](/Minecraft/DragonLands.html). See the link for more information, but basically its a plugin meant to let players hunt an enderdragon on a regular basis.
 
 **Background Info:**
 

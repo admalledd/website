@@ -2,7 +2,7 @@ Title: DragonLands
 Date: 2013-8-20 9:31
 Category: Minecraft
 Tags: 
-Slug: Dragon Lands
+Slug: Minecraft/Dragon Lands
 Author: Admalledd
 Summary: What is Dragon Lands and how to use it.
 
