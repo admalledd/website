@@ -1,5 +1,5 @@
-PY=/home/admalledd/Documents/code/lazer/zzpypy/builds/pypy-2013-5-8-32bit/bin/pypy
-PELICAN=/home/admalledd/Documents/code/lazer/zzpypy/builds/pypy-2013-5-8-32bit/bin/pelican
+PY=/home/admalledd/bin/pypy
+PELICAN=/home/admalledd/Documents/code/lazer/zzpypy/builds/latest/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)

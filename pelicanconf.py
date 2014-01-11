@@ -27,8 +27,10 @@ SOCIAL = (('Twitter: @admalledd', 'http://twitter.com/admalledd'),
           ('Email: admalledd@gmail.com', 'mailto://admalledd@gmail.com'),)
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('Minecraft Server Information','/pages/mc-index.html'),
-             ('FAQ/About me','/pages/faq-about-me.html'),)
+MENUITEMS = (('Forum','/php/forum/'),
+             ('Minecraft Server Information','/pages/mc-index.html'),
+             ('FAQ/About me','/pages/faq-about-me.html'),
+             )
 
 
 #DEFAULT_PAGINATION = False
