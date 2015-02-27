@@ -27,7 +27,7 @@ SOCIAL = (('Twitter: @admalledd', 'http://twitter.com/admalledd'),
           ('Email: admalledd@gmail.com', 'mailto://admalledd@gmail.com'),)
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('Forum','/php/forum/'),
+MENUITEMS = (('Forum','http://www.reddit.com/r/admalledd'),
              ('Minecraft Server Information','/pages/mc-index.html'),
              ('FAQ/About me','/pages/faq-about-me.html'),
              )
