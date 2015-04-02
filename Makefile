@@ -1,5 +1,5 @@
 PY=/home/admalledd/bin/pypy
-PELICAN=/home/admalledd/Documents/code/lazer/zzpypy/builds/latest/bin/pelican
+PELICAN=/home/admalledd/dev/pypy/builds/pypy-trunk-64bit-2014-12-06/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -32,7 +32,7 @@ regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server 8000
 
 publish:
 	cd $(BASEDIR) && ./publish.sh

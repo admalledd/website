@@ -23,7 +23,7 @@ ln -s $HOMEWWW/favicon.ico $SRC/
 #php stuffs, eg forum.
 ln -s $HOMEWWW/php/ $SRC/php
 
-cp $SRC/../htaccess $SRC/.htaccess
+#cp $SRC/../htaccess $SRC/.htaccess
 echo "transferring files..."
 rsync -avz --del $SRC/ $TARGET/
 

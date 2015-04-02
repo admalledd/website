@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-#THEME = "/home/admalledd/Documents/notes/pelican-themes/cebong"
+THEME = "notmyidea-modded"
 
 AUTHOR = u'admalledd'
 SITENAME = u"admalledd's website"
@@ -18,12 +18,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
+#LINKS =  (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
-          ('Jinja2', 'http://jinja.pocoo.org/'),)
 # Social widget
 SOCIAL = (('Twitter: @admalledd', 'http://twitter.com/admalledd'),
+          ("github: @admalledd", "http://github.com/admalledd"),
           ('Email: admalledd@gmail.com', 'mailto://admalledd@gmail.com'),)
 
 DISPLAY_PAGES_ON_MENU = False
@@ -32,9 +33,14 @@ MENUITEMS = (('Forum','http://www.reddit.com/r/admalledd'),
              ('FAQ/About me','/pages/faq-about-me.html'),
              )
 
+#GITHUB_URL="http://github.com/admalledd"
+#CSS_FILE="wide.css"
 
 #DEFAULT_PAGINATION = False
 
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
